@@ -1,0 +1,23 @@
+#game-area{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    background-color: black;
+    border: 10px solid chocolate;
+    border-style: dashed;
+    border-radius: 20%;
+}
+
+.personaje{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+}
+
+#player{
+    background-image: url(../../../imagenes/dan226s-82fa17a2-a387-4e69-a110-0d916f67c99b.png);
+    background-size: cover;
+}
+#beyonce{
+    background-image: url(../../../imagenes/f.elconfidencial.com_original_2f6_278_1ec_2f62781ecb89e4c83cce3998e4f20bd5.jpg);
+background-size: cover;}
